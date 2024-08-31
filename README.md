@@ -1,6 +1,6 @@
-# *Your Project Description*
-## *Sponsoring Company or Organization*
-## *Short Project Description*
+# *CodeRVA and UEFN project*
+## *CodeRVA*
+## *Work with CodeRVA to create a 3D Fortnite island of a prominent feature in Richmond, Virginia*
 The directory structure in this GitHub is to allow the project to have all its resources self-contained.
 Open Source software should not just be a repository of code.  There are a number of directories to help you and others who will 
 follow in your footsteps.  It'll also allow the Linux Foundation OMP Mentorship program to keep track of your project and get
@@ -20,7 +20,7 @@ a better understanding of the problems you encountered during the development of
 - *Mentor's Name*  - *Company Affliation* - Mentor
 - *Technical Advisor Name* - *Company Affliation* - Technical Advisor
 - *Faculty Advisor's Name* - *Department* - Faculty Advisor
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- *Kel Raphael* - *Computer Science, Piano Performance* - Student Team Member
+- *Kibria Malik* - *Computer Science* - Student Team Member
+- *Ken Mikawa* - *Computer Science* - Student Team Member
+- *Bryce Strobel* - *Computer Science* - Student Team Member
