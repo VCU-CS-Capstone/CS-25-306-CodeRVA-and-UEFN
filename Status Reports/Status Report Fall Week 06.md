@@ -19,7 +19,8 @@
 
 ## 2) Milestones to be completed next week ##
 - Finish, revise, and submit project proposal
-- Model pumphouse building layout in UEFN
+- Get images of what renovated pumphouse will look like
+- Build basic pumphouse structure in UEFN
 
 
 ## 3) Issues, problems or concerns ##
