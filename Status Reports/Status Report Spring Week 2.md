@@ -17,6 +17,7 @@
 - Refamiarizing with island
 
 ## 2) Milestones to be completed next week ##
+- Team contract update
 - Compile current status of island, highest-priority changes
 - Start work on said high-priority changes to island
 - Debug glitchy behavior of island features 
