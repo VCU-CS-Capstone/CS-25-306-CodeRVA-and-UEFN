@@ -14,7 +14,7 @@
 - *John Leonard*  - *VCU*
 
 ## 1) Accomplishments this week ##
-- Refamiarizing with island
+- Refamiliarizing with island
 
 ## 2) Milestones to be completed next week ##
 - Team contract update
