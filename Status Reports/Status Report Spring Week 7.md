@@ -21,6 +21,7 @@
 - Add features to pumphouse walls
 - Make island more reasonably shaped
 - Complete github assignment
+- Figure out logistics of letting CodeRVA present island
 
 ## 3) Issues, problems or concerns ##
 - N/A
