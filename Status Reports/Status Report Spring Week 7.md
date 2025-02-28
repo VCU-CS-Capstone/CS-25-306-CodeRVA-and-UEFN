@@ -16,12 +16,14 @@
 ## 1) Accomplishments this week ##
 - Started pumphouse model
 - Added proof of concept for zipline/collectibles/out of bound barriers
+- Got templates of Expo Abstract and Expo Poster
 
 ## 2) Milestones to be completed next week ##
 - Add features to pumphouse walls
 - Make island more reasonably shaped
 - Complete github assignment
 - Figure out logistics of letting CodeRVA present island
+- Start work on Expo Abstract and Expo Poster
 
 ## 3) Issues, problems or concerns ##
 - N/A
