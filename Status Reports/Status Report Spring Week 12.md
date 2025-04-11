@@ -19,6 +19,7 @@
 - Tested parkour
 - Finished major landscape edits
 - Tweaked barrier
+- Added Npc dialouge
 
 ## 2) Milestones to be completed next week ##
 - Fix parkour issue
