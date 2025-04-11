@@ -28,6 +28,7 @@
 - Add park entrance area
 - Clean up unused assets
 - Move trees
+- More Dialouge/ Interactive text
 
 ## 3) Issues, problems or concerns ##
 - Invisible parkour wall?
